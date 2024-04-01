@@ -15,3 +15,5 @@ Learning Objectives [# BTEC-620-Spring2024 4 Credits Fundamentals of Bioinformat
 [Phylogenetic Analysis:](https://youtu.be/IMIP4la-K84)
 https://github.com/spawar2/BTEC-620-Spring-2023/blob/main/Phylogenetic-Analysis.R
 [Link](https://youtu.be/UEsXMfE_7Rg)
+
+BIOL620-Spring-2024 (4 credit) (2 students)
