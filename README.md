@@ -16,4 +16,4 @@ Bioinformatics (topics including sequence alignment algorithms, scoring matrice
 https://github.com/spawar2/BTEC-620-Spring-2023/blob/main/Phylogenetic-Analysis.R
 [Link](https://youtu.be/UEsXMfE_7Rg)
 Blast, Sequence alignments (Margaret Dayhoff, PAM, Blossom scoring matrices, global & local alignment): https://youtu.be/Lx1jkr3UKwA
-BIOL620-Spring-2024 (4 credit) (2 students)
+BIOL620-Spring-2024 (4 credit) (2 students) *Graduate Class (Masters & Ph.D. Level)
