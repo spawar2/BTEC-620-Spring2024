@@ -22,4 +22,4 @@ https://www.claflin.edu/
 
 
 Feb-27.R: Analysis of Variance (ANOVA) test.
-January-23.R: Microarray datasets readin, Robust Multiarray normalization, boxplot visualizations, Fold-change analysis.
+January-23.R: Microarray datasets readin, Robust Multiarray normalization, boxplot visualizations, file exports in csv, txt format, Fold-change analysis.
