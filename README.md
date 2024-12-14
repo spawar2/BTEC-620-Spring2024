@@ -28,6 +28,7 @@ Raw-data.pdf
 Tree plot: unrooted.pdf
 Phylotree.pdf, Rawplot.pdf
 Rplot-Normalized.pdf, boxplot.pdf
+![download](https://github.com/user-attachments/assets/f47eb0d4-aa01-4cf2-bda0-da4e7e4b3929)
 
 Feb-27.R: Analysis of Variance (ANOVA) test.
 January-23.R: Microarray datasets readin, Robust Multiarray normalization, boxplot visualizations, file exports in csv, txt format, Fold-change analysis.
