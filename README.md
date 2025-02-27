@@ -31,6 +31,6 @@ Rplot-Normalized.pdf, boxplot.pdf
 ![download](https://github.com/user-attachments/assets/f47eb0d4-aa01-4cf2-bda0-da4e7e4b3929)
 
 Feb-27.R: Analysis of Variance (ANOVA) test.
-January-23.R: Microarray datasets readin, Robust Multiarray normalization, boxplot visualizations, file exports in csv, txt format, Fold-change analysis.
+January-23.R: Microarray datasets reading, Robust Multiarray normalization, boxplot visualizations, file exports in csv, txt format, Fold-change analysis.
 selected function(getGEO, normalize.quantiles, merge, cluster_analysis, hclust, Kmeans, mas5, rowMeans, randomForest, survfit, chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, CreateSeuratObject, FeatureScatter, NormalizeData, reduce.dimensions, FindNeighbors, FindClusters, RunTSNE, RunUMAP, use.phate, get.species.cells, make_analysis_from_table, plotCurveHeatmaps, plotPseudoTime, runPseudoTimeDGE, runSlignshot, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table, BGmix, ccParams, TailPP, ccTrace, histTailPP, FDRplotTailPP, histccPred, plotFDR, plotPredChecks, exprSet).
 
