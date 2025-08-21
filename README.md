@@ -30,7 +30,7 @@ Phylotree.pdf, Rawplot.pdf
 Rplot-Normalized.pdf, boxplot.pdf
 ![download](https://github.com/user-attachments/assets/f47eb0d4-aa01-4cf2-bda0-da4e7e4b3929)
 https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
-
+https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-biology
 https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024-26.pdf?sfvrsn=88de090e_0
 Feb-27.R: Analysis of Variance (ANOVA) test.
 January-23.R: Microarray datasets reading, Robust Multiarray normalization, boxplot visualizations, file exports in csv, txt format, Fold-change analysis.
